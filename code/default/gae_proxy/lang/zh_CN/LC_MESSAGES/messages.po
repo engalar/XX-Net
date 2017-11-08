@@ -66,7 +66,7 @@ msgid "Stop"
 msgstr "停止"
 
 msgid "Public appids used by default"
-msgstr "默认使用公共appid"
+msgstr "默认使用公共appid，保存多个AppID请用|分割"
 
 msgid "The public appids are disabled to access videos or download files."
 msgstr "公共AppID不能看视频、下载文件。"
@@ -81,7 +81,7 @@ msgid "Advanced options"
 msgstr "高级选项"
 
 msgid "Enable IPv6(If it's available)"
-msgstr "使用IPv6(一般教育网才开)"
+msgstr "使用IPv6"
 
 msgid "LAN proxy(Generally not needed)"
 msgstr "局域网代理(一般无需配置)"
@@ -153,7 +153,7 @@ msgid "Log"
 msgstr "日志"
 
 msgid "Delimit multiple appids with |"
-msgstr "批量部署多个AppID, 请用|分割"
+msgstr "批量部署多个AppID, 请用|分割；部署时不要占用8080端口"
 
 msgid "Show Debug Log"
 msgstr ""
@@ -364,7 +364,7 @@ msgid "You may want to $1turn on IP scaner$2."
 msgstr "您应该考虑$1开启 IP 扫描器$2。"
 
 msgid "XX-Net is scanning IP. Please wait about half an hour."
-msgstr "请等待大约半小时，XX-Net需要扫描IP。"
+msgstr "等待扫描IP，建议开启IPv6。"
 
 msgid ""
 "Public appid out of quota, Please <a href=\"https://github.com/XX-net/XX-"
